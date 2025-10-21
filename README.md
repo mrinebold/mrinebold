@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrinebold
-- 👀 I’m interested in crypto and farming
-- 🌱 I’m currently learning forking
-- 💞️ I’m looking to collaborate on greenhouse management
+- 👀 I’m interested in Agentic AI
+- 🌱 I’m currently building a 21 agent system fpor coding and grant management
+- 💞️ I’m looking to collaborate on Claude Code and AI agents
 - 📫 msg me at mrinebold@gmail.com
 
 <!---
